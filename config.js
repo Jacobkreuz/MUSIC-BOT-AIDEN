@@ -34,7 +34,7 @@ module.exports = {
 
 
   sponsor: {
-    status: false,
+    status: true,
     url: "https://www.youtube.com/@GlaceYT",
   },
 
