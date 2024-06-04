@@ -28,13 +28,13 @@ module.exports = {
   mongodbURL: "https://media.discordapp.net/attachments/1244725567584997457/1244725705787310080/dcbanner.png?ex=66600be6&is=665eba66&hm=f39a3dc5206a5e101c5fb77f275f41aad82af07494ebe57e33e0739d5e1d69ff&=&format=webp&quality=lossless&width=1025&height=362",
   status: 'Currywurstjochen89',
   commandsDir: './commands',
-  language: "de",
+  language: "en",
   embedColor: "00fbff",
   errorLog: "",
 
 
   sponsor: {
-    status: true,
+    status: false,
     url: "https://www.youtube.com/@GlaceYT",
   },
 
